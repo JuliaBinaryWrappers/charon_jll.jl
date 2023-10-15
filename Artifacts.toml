@@ -1,0 +1,414 @@
+[[charon]]
+arch = "aarch64"
+git-tree-sha1 = "038fe62ac15d4644dd55fb6b2a7aa302459f7756"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "85e65aa25ed7f6b321fe7243630a88a62986317be74da09cbb6f72aac7de6d49"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[charon]]
+arch = "aarch64"
+git-tree-sha1 = "18e4fcbef884732137a86bf0517730ba0365e67f"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "75685d8906bc6a8afe091c619b48a9270553cce98b58e36b778269872c4ea47f"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "aarch64"
+git-tree-sha1 = "0317d91bc162615ef8c0d74e4fc675cad927563c"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "5dea1893e3ee4d0803833c98a2b740898d591b51f15e992099a244fb515aa628"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9a6e7f422c550f119ea801329e0749f0a5d9707"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "3f0f8aa8fa27af26d18f1131081a4f726112eaeb2ff7a7f27d46e5b014ca3f04"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f65e386bc493cb7bfeb45df5e6acd51d4b5b1e4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "5d704a7bc618dc2a5dd5e16253a7205b5ea83d94661adb140b39e57957099347"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9216a9ac0aa24e6068b15274aae543f35334e9f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "7ad4541ea833cb4f4ba258a13d874bf2298a1fe7dbaf12423178e368c410e190"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08a537c5f131d334fc78d3ea49b3eebb0b2c755f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "0de3d8cc003c0771da6c4f703bd5bed8b2a14ce7e768a1c2940906abbd1aada7"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1639284d9bc396146142d24d0c5df5b3084deacc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "440231afb7bb10349607acb9ef0835f0372b1e0a4ccd37f2d7acc03c2feec09d"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6926a06cf50ddd660ea89d2a5719a673760c4c3c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "23531c3fdeb9d516ccef5715134009c4a938bf64e677970ec455ed3adb4d695a"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f94be58cec46359cb94ac8f98d559442ea482d71"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "0a8b759bd41b89919a8ab0ce83e10fd31845cada4275d31de64f08f73927095a"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3f747f36a194dc9015ddcc2274e5d52ee987f03"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "031c4699c139d201c3b057f0636b8a5c694f041a7e10b0194c0daddfa05e7f00"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "331baca82a93d0918e387abf25093341cc5ef436"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "4e7868e6e8c7b404589e02334c1c0928e141cae909d35a812ca52d91a81dc40c"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[charon]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b22a72e816b70cb8faa93bc5905a634247b4f79b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "244355a622f05746538a69fdc87ccdabba4dd9027504eebbf1f9fbef66004dcc"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.aarch64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "592717a4e9885c6bb650f0b3b649a12253b6569f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "c164fd560a2169b40bf073726783bcd9e544a7ff438c87a00cd42397ffeec9a3"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "703d70c73c54d38f329129df41236034f32d530e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "eed3f0830ad00cd33fb0042bba0234a306a5ca2198ca04427db03d0b1916b83e"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "40e1d326a432b9038b4152fd1f6af373f57465a2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "7c8b150e28ccf9cbcda433543ea1246b0a91e3d2e1a4b904cd0877477ba73e5e"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aaccf8799e37bff61dbf34fdc3257e530783e0b7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "97d8f447d94122e0c7ca08121cb8102b1922f49541dc0eb09320691a3336cd6c"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "17b02d142739ad209b01e2abd426c7d6c72ee96d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "c85b2ec40954ebe538ce0d1dce309352e75324b33a4053dcc5c582083d274f86"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "907876960b16560fec4f0c4904906e502ccfd960"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "89690b788a909b9f48537528e5ab00a23e7f49f5fff98c3fe2254389cebeb0df"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.powerpc64le-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+git-tree-sha1 = "0bf0ddbd74533dbaad92b5b214b2844dbdb2f4aa"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "0180036c5369c5c91bf7db3b6809409234ecdd5df54ad02e7eead0fcc097224e"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+git-tree-sha1 = "d3edfdc686fd46ddce644fcd9d35f3473e1e348b"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "a291e16d04a2abd74f6a9ea53d49c1d6697d8c7c88e413af83e51ee30671436e"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "x86_64"
+git-tree-sha1 = "25967419ed9a6a602c2436473f72d03eb1967e3c"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[charon.download]]
+    sha256 = "07703495a4a262070214fb97d3f995cd26b73261e04c4f74c20d45bfbc48e2dc"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2bc1969872987e0c3ad0276f1393393cee578f1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "7ef6806a3edf6f2ab920305d2100b9f45c934722e9a40aa4047a4ca97f7335a2"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ce82b84b3c22bc194e57f8a9839ead1a541c4cb4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "7ae350d1b3aff18def4f5a16df29906a4dbfb59cf36f9fc99a9697555991318c"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c67a3130b73d621c7495040cf082b28e96b76f15"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "ebdfe8a3e1422c66c76700a262fb13e220acf99e47101fb451b296bf3d145b40"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51c952cd3386e114751a0eb8218e1f1289c14bc1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "852c81da02b4f19ab6e15edb460c857bea28452d8bd8dbac41e35e5db3003fd4"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6cd95b5b2bbe83a881681ecbcf104179e2fcc174"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "f4763bd083d1d64c9773c59b35bef4b028643c0dbac077883447fcaaeade7b64"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+mpitrampoline.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d35a506d6e44c5f00307f4d2a81cabbd60b5e5b0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "cd856e5341dac376ebd91a565f5aebea9824b2df307158dd04b98b022086e2f2"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-gnu-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcf832a02d9c3ff8b7b54357e57c5099bfe08080"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "1dcc498886ddea9d258db4daedb372bd69bdb2918fb401a180d3649e67990913"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-musl-libgfortran5-cxx03-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11613adddcd1f0211dfd21f3fe074b06498d2932"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "367fc872d56e094ef6bf4fafdb1a9909e08aecb69741e990b190a6aa18480491"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-musl-libgfortran5-cxx03-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d82ef0dbe0de8a627f8dbbfd9c54aacd53cfd0bd"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "e5e9cb417df884ecf2b9157eca9a41846aefdc5291c5cd13ed8fdbcebdb6269d"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-musl-libgfortran5-cxx11-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df3e9091443e56a42f5e611f60c5b43c91617ae6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[charon.download]]
+    sha256 = "4b4d39859ed9bd4a323be01c8369cf55e0bfe810776b1164b347f86e21072de7"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-linux-musl-libgfortran5-cxx11-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+git-tree-sha1 = "60205ead1c545bf6c5371f4994efa1af0e444b65"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "freebsd"
+
+    [[charon.download]]
+    sha256 = "ac2e6029c27384b6723d55217c85d5f53fd39908d8d0acc4cc552fce7d787308"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+[[charon]]
+arch = "x86_64"
+git-tree-sha1 = "b913564a1948e3d2405a385c463c0efa2a27f182"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[charon.download]]
+    sha256 = "d9874d85d2571ba11ba4af767a984ae07194b663386e9a6ea8a5da4132649e98"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-unknown-freebsd-libgfortran5-mpi+openmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6d3685dc3501fda4eb4b07f80da921781bca748"
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[charon.download]]
+    sha256 = "d6821e8e1672ed4bde6c6ba312d57b25863c56d09b133b92a64967042e956d3c"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
+[[charon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d4574fc4b5c0a2984c75e52a7d69028c7908145"
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[charon.download]]
+    sha256 = "48bf7032609734588116536cbe6ff7b34798232ea93dd6ae0b07710f7d592c00"
+    url = "https://github.com/JuliaBinaryWrappers/charon_jll.jl/releases/download/charon-v2.2.0+0/charon.v2.2.0.x86_64-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
